@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    padding: 15px;
+    border: 1px solid black;
+    text-align: right;
+    background-image: url(style.jpeg);
+    text-shadow: black;
+    height: 25px;
+}
+#navbar div{
+    display: inline;
+}
+#home a{
+    background-color: #C8AE7D;
+    color:rgb(249, 239, 239);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    border: 1px solid black;
+}
+#gallery a{
+    background-color: #C8AE7D;
+    color:rgb(249, 239, 239);
+    text-decoration: none;
+    border-radius: 5px;
+    padding:1vh;
+    margin-right: 2vh;
+    float: right;
+    border: 1px solid black;
+}
+#logo{
+    margin: left;
+    float: left;
+    margin-bottom: 5px;
+}
+#logo img{
+    border: 2px solid rgb(255, 204, 204);
+    width: 30px;
+    border-radius: 360px;
+}
+#banner{
+    padding: 60px;
+    border: 1px;
+    background-image: url(mel.jpg);
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90vh;
+    color: white;
+    text-shadow: 2px black;
+}
+#banner span{
+    color: #EAC696;
+}
+#banner p{
+    margin-bottom: 25px;
+    color: #ffffff;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+#banner .gallery a{
+    border:1px solid rgb(255, 204, 204);
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    background-color: #C8AE7D;
+    padding: 10px;
+    text-decoration: none;
+    margin: right;
+    align-items: right;
+}
+#footer{
+    color: rgb(75, 72, 72);
+    border: 1px solid black;
+    background-image: url(style.jpeg);
+    height: 5vh;
+    background-size: 100%;
+    padding: 5px;
+}
+#socmed{
+    float: right;
+    margin: right;
+}
+#pics{
+    margin-left: 10px;
+    margin: 5px;
+    padding: 30px;
+    background-image: url(ambot.jpeg);
+    color: rgb(82, 34, 34);
+}
+#x img{
+    margin:10px;
+    padding: 10px;
+    width: 20vw;
+    height: 30vh;
+    align-content: center;
+}
+#y img{
+    margin:10px;
+    padding:10px;
+    width: 20vw;
+    height: 30vh;
+    display:inline;
+}
